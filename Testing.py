@@ -3,6 +3,8 @@
 # Fecha de última Modificación: 11/08/2021 18:06
 # Versión: 3.9.6
 #####################################################################
+# ERR2x2 -5 Los test caso 3 y 4 tirarian error porque buscan ser != de 0
+# ERR4 -5 Los test no corren por el menù en un principio no hace falta menú
 
 # importación de librerias:
 from Funciones import multiple_op, verify_array_op

@@ -3,7 +3,7 @@
 # Fecha de última Modificación: 11/08/2021 18:06
 # Versión: 3.9.6
 #####################################################################
-
+# ERR3 -1.5 Repite el codigo de error
 # importación de librerias:
 import math
 
